@@ -17,7 +17,6 @@ import java.util.Properties;
 /**
  * This is the main application class. The application is started and an openApi bean for the
  * Swagger UI is created.
- * HI3
  */
 @SpringBootApplication
 @ComponentScan({
